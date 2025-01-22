@@ -1,1 +1,11 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+#titulo{
+    text-decoration: solid;
+    color: brown;
+}
+
+#excuse{
+    text-decoration: solid;
+    color: rgb(19, 4, 228);
+}
